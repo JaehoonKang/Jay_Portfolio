@@ -1,8 +1,13 @@
+* {box-sizing: border-box;}
+.mySlides {display: none;}
+img {vertical-align: middle;}
+
 body {
     font-size: 14px;
     color: #333;
     background-color: #fff;
     letter-spacing: 1px;
+    font-family: Verdana, sans-serif;
 }
 .overlay{
     width: 100%;
