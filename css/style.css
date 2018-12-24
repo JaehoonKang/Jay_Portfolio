@@ -1,6 +1,4 @@
-* {box-sizing: border-box;}
-.mySlides {display: none;}
-img {vertical-align: middle;}
+img {vertical-align: left;}
 
 body {
     font-size: 14px;
