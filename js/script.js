@@ -24,7 +24,7 @@ $(document).ready(function(){
     });
 
     var type = new Typed(".typed", {
-        strings: ["Future Tax Technology Professional", "Accounting Major", "Computer Science Minor"],
+        strings: ["Future Accounting Technology Professional", "Accounting Major", "Computer Science Minor"],
         typeSpeed: 70,
         loop: true,
         startDelay: 1000,
